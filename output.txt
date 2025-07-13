@@ -1,0 +1,7 @@
+Enter your password:  hi
+Strength: Weak
+- Password should be at least 8 characters long.
+- Password should include at least one uppercase letter.
+- Password should include at least one number.
+- Password should include at least one special character.
+- Your password is weak. Please improve it.
